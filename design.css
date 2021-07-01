@@ -1,0 +1,61 @@
+.titulo { 
+    font-size: 3em;
+}
+
+td { 
+    text-align: center;
+    border-radius: 5px;
+    width: 90px;
+    height: 90px;
+}
+
+.table {background: black}
+
+.metal {background: #FAAA55}
+
+.outrosmetais {background: #D691BE}
+
+.semimetais {background: #F6AFCF}               
+
+.naometaisdiatomicos {background: #00AFF0}
+
+ul {list-style: none;
+margin: 0;
+padding: 0}
+
+.metaisalcalinos {background: #DA1617}
+
+.metaisalcalinosterrosos {background: #97C04A}
+
+.gases-nobres {background: #F4958F}
+
+.nao-metais {background: #5D95C6}
+
+.numero-atomico {text-align: left; margin: 3px}
+
+.sigla {
+    font-size: 2em;
+}
+
+a {
+    text-decoration:none;
+}
+ 
+.lantanideos{background: #FEC82A}
+
+.serie {
+    background: #CE8F64;
+}
+
+.Lantanideos_actinoides { 
+    font-size: 2em;
+    color: red;
+}
+
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.metaisalcalinos {background: #42B87B}

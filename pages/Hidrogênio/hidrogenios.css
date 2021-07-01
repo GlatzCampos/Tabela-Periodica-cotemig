@@ -1,0 +1,56 @@
+.nao_metais {background: #00AFF0}
+
+table.center{
+    margin-left:auto;
+    margin-right:auto;
+}
+
+td { 
+    text-align: center;
+    border-radius: 10px;
+    width: 100px;
+    height: 115px;
+}
+
+ul {list-style: none;
+    margin: 0;
+    padding: 0}
+
+a {
+    text-decoration:none;
+}
+
+.sigla {
+    font-size: 2em;
+}
+
+.numero-atomico {text-align: left;
+    margin: 3px;
+    font-size: 1em;
+}
+
+.onde {text-align:center;}
+
+.borda {background:lightgrey;
+text-align:center;
+color: lightgrey;
+}
+
+video.center{
+    align-content: center;
+    width: 800px;
+    height: 400px;
+    margin: 0 auto;
+}
+
+.container {
+    width: 800px;
+    height: 400px;
+    background: #fff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+
+}
